@@ -1,0 +1,876 @@
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:00:11.590Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:00:11.597Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:00:15.288Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:00:15.296Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:00:41.547Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:00:41.566Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:00:49.220Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:00:49.228Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:00:57.388Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:00:57.395Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:01:38.411Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:01:38.418Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:01:42.800Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:01:42.810Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:01:48.359Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:01:48.366Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:01:51.940Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:01:51.950Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:01:57.327Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:01:57.334Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:02:02.156Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:02:02.178Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:02:05.394Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:02:05.401Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:02:53.114Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:02:53.121Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:02:54.859Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:02:54.870Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:03:55.432Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:03:55.450Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:04:10.665Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:04:10.672Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:04:13.047Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:04:13.054Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:04:15.657Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:04:15.664Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:04:18.671Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:04:18.679Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:08.542Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:08.549Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:13.729Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:13.745Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:19.671Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:19.688Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:38.185Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:38.192Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:45.982Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:46.005Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:51.234Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:51.241Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:53.056Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:09:53.062Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:10:03.680Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:10:03.687Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:10:05.807Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:10:05.814Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:11:08.416Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:11:08.423Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:11:12.359Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:11:12.368Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:11:50.365Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:11:50.380Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:11:56.231Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:11:56.245Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:12:21.061Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:12:21.083Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:13:48.700Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:13:48.707Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:14:25.168Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:14:25.182Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:14:27.542Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:14:27.548Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:14:31.083Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:14:31.090Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:14:38.444Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:14:38.462Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:19:41.186Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:19:41.196Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:19:44.183Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:19:44.192Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:19:45.989Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:19:46.002Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:19:48.441Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:19:48.448Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:19:50.727Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:19:50.750Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:22:11.139Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:22:11.146Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:22:15.593Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:22:15.599Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:22:28.714Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:22:28.721Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:22:34.759Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:22:34.774Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:23:03.815Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:23:03.825Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:26:32.403Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:26:32.418Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:26:36.378Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:26:36.395Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:26:38.833Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:26:38.841Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:26:43.657Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:26:43.665Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:28:48.725Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:28:48.732Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:29:22.727Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:29:22.742Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:18.425Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:18.432Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:21.661Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:21.670Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:24.235Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:24.242Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:25.755Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:25.780Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:32.803Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:32.810Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:35.744Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:35.752Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:58.657Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:30:58.676Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:07.024Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:07.044Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:21.709Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:21.729Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:43.838Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:43.844Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:45.898Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:45.916Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:56.864Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:56.870Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:58.691Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:31:58.702Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:33:14.023Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:33:14.041Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:33:24.265Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:33:24.280Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:33:30.853Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:33:30.859Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:33:32.697Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:33:32.722Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:34:16.936Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:34:16.946Z'
+}
+{
+  message: '🫙   Database is Connected   🚀🗄️',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:34:24.633Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'CH',
+  timestamp: '2023-06-17T06:34:24.640Z'
+}

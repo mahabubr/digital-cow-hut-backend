@@ -1,0 +1,105 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\.cd10060874f830d4bfd7ff7cc016300d3c4d72d6-audit.json",
+  "files": [
+    {
+      "date": 1686853896560,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-00-16-06-2023-success.log",
+      "hash": "81a3f4198520947aa3f1a8620d5b4191a0f6855f7e1ef4d5ea6e156014624290"
+    },
+    {
+      "date": 1686855600879,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-01-16-06-2023-success.log",
+      "hash": "7b40af81948de4b179c82e1abb456ad8b76cbaca2abcb29f7511edb62533512f"
+    },
+    {
+      "date": 1686896884615,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-12-16-06-2023-success.log",
+      "hash": "6d211d5b854126385bf4dc6d1e76a6cead0fe2e9b79db9b3327dbe61648f77ed"
+    },
+    {
+      "date": 1686905064719,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-14-16-06-2023-success.log",
+      "hash": "9d3c30bf44362706cb6918d1ee3a8568c9dd130ca2a185051baef9ce33a0eab5"
+    },
+    {
+      "date": 1686906006722,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-15-16-06-2023-success.log",
+      "hash": "84508e3416c514aabbbce90cc8ae36ffeab806ee40f3639f3acbe17f17fa4034"
+    },
+    {
+      "date": 1686913850788,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-17-16-06-2023-success.log",
+      "hash": "3672fb4e5867de2ad85916eb4c81e47e09bac3875b559ac802968c183943f8f6"
+    },
+    {
+      "date": 1686919447196,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-18-16-06-2023-success.log",
+      "hash": "436478e092c82e209bf61695126a73e8516ad18ae12fb9e054db153c5399786a"
+    },
+    {
+      "date": 1686921039085,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-19-16-06-2023-success.log",
+      "hash": "e9ed290168c04f4b15bf1dfce55f50a43e55d11d6f74930cb77cfe4af652cf11"
+    },
+    {
+      "date": 1686938330612,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-23-16-06-2023-success.log",
+      "hash": "b4fb5e14d6487a24b86e5cf7511be1ad3a951d833fa5132f17e1af8a00c97a57"
+    },
+    {
+      "date": 1686938463071,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-00-17-06-2023-success.log",
+      "hash": "52ed0c6ad879ef94861eb1b977123e92f72a904a8cdbba940404f52e3282e1a4"
+    },
+    {
+      "date": 1686942013515,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-01-17-06-2023-success.log",
+      "hash": "1f61175eea16b221f9745de46bc70ff8b54613440404ac198f62838254f55cec"
+    },
+    {
+      "date": 1686981113898,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-11-17-06-2023-success.log",
+      "hash": "82a93345ac2f95831b6c9d7a638eec1387770de0cb58b0e2cda2a3f0e963e775"
+    },
+    {
+      "date": 1686981600622,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-12-17-06-2023-success.log",
+      "hash": "d81aeccd6fdd05ee13d45b0e6b0b91d904acdb716ece07e6c0c69a0c053897cc"
+    },
+    {
+      "date": 1686985677998,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-13-17-06-2023-success.log",
+      "hash": "112e81189268b8278495ec75289411cb1a411618ad04c4ee7b80b177511f84c0"
+    },
+    {
+      "date": 1686990919802,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-14-17-06-2023-success.log",
+      "hash": "f397abd02a260e70191c25d7d24104efc6ad43830d8a385005882dcbaf9f506e"
+    },
+    {
+      "date": 1687076930812,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-14-18-06-2023-success.log",
+      "hash": "494af83f3c7f690575666f7209a1a4de8f6600158d34516239a0ef18493f2948"
+    },
+    {
+      "date": 1687078800324,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-15-18-06-2023-success.log",
+      "hash": "5cabcffdc9058552790ff973e75b2d07beeb0e09e3d989f776333a53f55c59ec"
+    },
+    {
+      "date": 1687083820897,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-16-18-06-2023-success.log",
+      "hash": "c228880a65356cf2791ec6e70904499b6ce54aae293f936bc0d089df065b2044"
+    },
+    {
+      "date": 1687087507962,
+      "name": "C:\\projects\\level-two\\digital-cow-hut\\logs\\winston\\successes\\CU-17-18-06-2023-success.log",
+      "hash": "f6b5a778c193b2aef7009c41aa07977983b67aab631b911112fd0e21d1c750c1"
+    }
+  ],
+  "hashType": "sha256"
+}
